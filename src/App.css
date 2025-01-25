@@ -1,0 +1,95 @@
+/* src/App.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+  padding-bottom: 60px; /* Add padding to prevent content from being hidden behind the fixed footer */
+}
+
+header {
+  background: #333;
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+header nav {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+header a:hover {
+  color: #61dafb;
+}
+
+main {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: white;
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+li a {
+  text-decoration: none;
+  color: #333;
+  font-size: 1.2rem;
+}
+
+li a:hover {
+  color: #007bff;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+  z-index: 1000; /* Ensure the footer stays above other content */
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+footer a:hover {
+  opacity: 0.8; /* Slightly fade the icon on hover */
+}
+
+footer img {
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+}
