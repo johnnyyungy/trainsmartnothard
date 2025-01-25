@@ -9,35 +9,35 @@ const Footer = () => {
         Follow me on:
         <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
           <img
-            src="/images/x.png"
+            src="./images/x.png"
             alt="X (formerly Twitter)"
             style={{ width: '24px', height: '24px', margin: '0 5px' }}
           />
         </a>
         <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
           <img
-            src="/images/facebook.png"
+            src="./images/facebook.png"
             alt="Facebook"
             style={{ width: '24px', height: '24px', margin: '0 5px' }}
           />
         </a>
         <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
           <img
-            src="/images/instagram.png"
+            src="./images/instagram.png"
             alt="Instagram"
             style={{ width: '24px', height: '24px', margin: '0 5px' }}
           />
         </a>
         <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
           <img
-            src="/images/linkedin.png"
+            src="./images/linkedin.png"
             alt="LinkedIn"
             style={{ width: '24px', height: '24px', margin: '0 5px' }}
           />
         </a>
         <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">
           <img
-            src="/images/youtube.png"
+            src="./images/youtube.png"
             alt="YouTube"
             style={{ width: '24px', height: '24px', margin: '0 5px' }}
           />
