@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trainsmartnothard/static/css/main.9aaf9df2.css",
+    "main.js": "/trainsmartnothard/static/js/main.ea92c946.js",
+    "index.html": "/trainsmartnothard/index.html",
+    "main.9aaf9df2.css.map": "/trainsmartnothard/static/css/main.9aaf9df2.css.map",
+    "main.ea92c946.js.map": "/trainsmartnothard/static/js/main.ea92c946.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aaf9df2.css",
+    "static/js/main.ea92c946.js"
+  ]
+}
